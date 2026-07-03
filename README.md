@@ -2,9 +2,7 @@
 
 > **Unified Digital Identification Infrastructure for Autonomous Agents**
 
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![ROS2: Humble/Jazzy](https://shields.io)](https://ros.org)
-[![Python: 3.10+](https://shields.io)](https://python.org)
+![Unified Digital Identification Infrastructure for Autonomous Agents](images/vehicle-to-infrastructure.png)
 
 ---
 
