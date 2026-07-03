@@ -3,9 +3,9 @@
 > **Unified Digital Identification Infrastructure for Autonomous Agents**
 
 
-![Unified Digital Identification Infrastructure for Autonomous Agents](images/vehicle_to_infrastructure.png)
-
 ---
+
+![Unified Digital Identification Infrastructure for Autonomous Agents](images/vehicle_to_infrastructure.png)
 
 ## 📌 Project Overview
 
