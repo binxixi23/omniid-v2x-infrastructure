@@ -1,0 +1,11 @@
+global_settings:
+  matching_threshold_degrees: 5.0
+  update_rate_hz: 10.0
+
+safety_policies:
+  innate_yield_priority:
+    action: "SLOW_DOWN_AND_YIELD"
+    distance_buffer_meters: 15.0
+  standard_keep_distance:
+    action: "MAINTAIN_GAP"
+    distance_buffer_meters: 5.0
